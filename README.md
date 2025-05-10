@@ -9,7 +9,7 @@ To develop a website to display details about the places around my house.
 ### STEP 1
 Create a Django admin interface.
 
-### STEP 2
+### STEP 2W
 Download your city map from Google.
 
 ### STEP 3
